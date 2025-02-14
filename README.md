@@ -90,6 +90,6 @@ With the setup and execution automated, you can now benefit from the efficiency 
 
 ## Contribution and Support
 
-As an open-source initiative, the Pump.Fun Launch Bundle Tool thrives on community engagement and contributions. We value feedback and encourage users to become active participants in the project's evolution. For queries or support, please reach out via X at @james980114.
+As an open-source initiative, the Pump.Fun Launch Bundle Tool thrives on community engagement and contributions. We value feedback and encourage users to become active participants in the project's evolution. For queries or support, please reach out via X at @ethualtera.
 
 Experience a new level of efficiency and profitability with the Pump.Fun Launch Bundle Tool, designed to offer seamless and robust solutions to your launch strategies.
